@@ -1,0 +1,7 @@
+Please install these in a separate virtual environment 
+Django     2.1.7
+pip        10.0.1
+pytz       2018.9
+setuptools 39.1.0
+
+@ this todo app has been referred from Youtube
